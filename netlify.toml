@@ -7,8 +7,8 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
- [[redirects]]
-from = "/feed"
-to = "/feed.xml"
+  [[redirects]]
+from = "/feed.xml"
+to = "feed"
 status = 200
 force = false 
