@@ -7,8 +7,6 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
-  [[redirects]]
-from = "/recognition"
-to = "/feed.xml"
-status = 200
-force = false 
+# Rewrite a path
+/feed.xml /feed    200 
+
