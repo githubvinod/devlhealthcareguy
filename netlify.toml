@@ -8,7 +8,7 @@
   HUGO_ENABLEGITINFO = "true"
   
   [[redirects]]
-from = "/request-guest-article"
+from = "/feed.xml"
 to = "/recognition"
 status = 200
 force = false 
