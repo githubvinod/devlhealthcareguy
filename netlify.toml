@@ -9,7 +9,7 @@
   
 [[redirects]]
   from = "/feed/"
-  to = "/index.xml"
+  to = "/feed.xml"
   status = 200
   force = true
   
