@@ -7,8 +7,11 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
-  # Rewrite a path
-/feed.xml /feed    200 
+[[redirects]]
+  from = "/feed/"
+  to = "/index.xml"
+  status = 200
+  force = true
   
   
  
