@@ -1,0 +1,6 @@
+[submodule "content/planattestcloud"]
+	path = content/planattestcloud
+	url = https://github.com/megin1989/hugo
+[submodule "content/opsfolio-site"]
+	path = content/opsfolio-site
+	url = https://github.com/megin1989/opsfolio
