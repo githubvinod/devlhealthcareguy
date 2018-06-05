@@ -17,30 +17,20 @@
   {{ end }}
    {{ .Content }} 
 
-   <form method="POST" action="https://api.staticman.net/v2/entry/githubvinod/devlhealthcareguy/master">
-  <fieldset>
-    <legend>Leave a reply</legend>
-    <div class="font-small">
-      <p>Your email is only used for the purpose of displaying an Avatar and is encrypted to protect your privacy</p>
-    </div>
-    
-    <!-- e.g. "2016-01-02-this-is-a-post" -->
-    <input name="options[slug]" type="hidden" value="good">
-    <div>
-      <label for="messages">Comment (required)</label>
-      <textarea id="message" name="fields[messages]" placeholder="Please type your feedback here" required></textarea>
-    </div>
-    <div>
-      <label for="name">Name</label>
-      <input id="name" name="fields[name]" type="text">
-    </div>
-    <div>
-      <label for="email">E-mail (required)</label>
-      <input id="email" name="fields[email]" type="email" placeholder="enter your email" required>
-    </div>
-  </fieldset>
-  <button type="submit">Add comment</button>
+  <form class="post-new-comment" method="POST" action="https://dev.staticman.net/v2/entry/githubvinod/devlhealthcareguy/master/posts">
+  <input type="hidden" name="options[redirect]" value="http://devlhealthcareguy.netlify.com">
+  <input name="fields[title]" type="text" class="post-comment-field" placeholder="Title">
+  <textarea name="fields[body]" class="post-comment-field" placeholder="The content. Feel free to use Markdown." rows="10"></textarea>
+  <input type="submit" class="post-comment-field btn" value="Submit">
 </form>
+
+<div id="post-submitted" class="dialog">
+<h3>Thank you</h3>
+  <p>Your post has been submitted and will be published once it has been approved.</p>
+   
+  
+   
+</div>
    
   </div>
 
