@@ -24,6 +24,7 @@ We have several options for you to submit content for coverage:
 I&#8217;m an expert in many healthcare IT, security, and medical device architecture topics but I know there are thousands of other highly experienced engineers and technical leaders out there who know more than I do. That’s why I love getting requests to submit guest articles on all kinds of topics. Here&#8217;s a quick video overview on the kinds of guest articles we post:
 
 {{< youtube 0k5evYBfJ7A >}}
+ 
 
 **What kinds of subjects should you write about?**
 
