@@ -4,6 +4,8 @@
 
 [Full Changelog](https://github.com/githubvinod/devlhealthcareguy/compare/2018-4-1...HEAD)
 
+[View Commits](https://github.com/githubvinod/devlhealthcareguy/commits/c2330f9e7bbc3443b082218b79e8696c18e4bca0)
+
 **Merged pull requests:**
 
 - Add Staticman data [\#10](https://github.com/githubvinod/devlhealthcareguy/pull/10) ([staticmanapp](https://github.com/staticmanapp))
