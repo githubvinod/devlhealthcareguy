@@ -1,11 +1,9 @@
 # Change Log
 
-## [Unreleased](https://github.com/githubvinod/devlhealthcareguy/tree/HEAD)
+## [v1.1](https://github.com/githubvinod/devlhealthcareguy/tree/v1.1) (2018-06-08)
+[Full Changelog](https://github.com/githubvinod/devlhealthcareguy/compare/v1.0...v1.1)
 
-[Full Changelog](https://github.com/githubvinod/devlhealthcareguy/compare/2018-4-1...HEAD)
-
-[View Commits](https://github.com/githubvinod/devlhealthcareguy/commits/c2330f9e7bbc3443b082218b79e8696c18e4bca0)
-
+## [v1.0](https://github.com/githubvinod/devlhealthcareguy/tree/v1.0) (2018-06-07)
 **Merged pull requests:**
 
 - Add Staticman data [\#10](https://github.com/githubvinod/devlhealthcareguy/pull/10) ([staticmanapp](https://github.com/staticmanapp))
